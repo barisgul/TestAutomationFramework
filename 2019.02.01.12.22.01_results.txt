@@ -1,0 +1,9 @@
+Title	-	Status	-	Url
+Amazon.com: Prime Video: Prime Video - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_video?_encoding=UTF8&node=2858778011
+Amazon.com: CDs & Vinyl - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_cd?_encoding=UTF8&node=5174
+Amazon.com: Digital Music - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_music?_encoding=UTF8&node=163856011
+Amazon.com: Kindle Store - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_kindle?_encoding=UTF8&node=133140011
+International Shopping: Shop Arts and Crafts that Ship Internationally - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_arts?_encoding=UTF8&node=4954955011
+International Shopping: Shop Automotive Products that Ship Internationally - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_automotive?_encoding=UTF8&node=2562090011
+International Shopping: Shop Baby products that ship Internationally - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_baby?_encoding=UTF8&node=16225005011
+International Shopping: Shop Beauty and Personal Care Products that Ship Internationally - OK - https://www.amazon.com/s/browse/ref=nav_shopall-export_nav_mw_sbd_intl_beauty?_encoding=UTF8&node=16225006011

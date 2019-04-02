@@ -1,0 +1,52 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 17,
+        "name": "Unique ID per post",
+        "description": "",
+        "id": "api-test;unique-id-per-post",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14245770324,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I get a list of blog posts using the API endpoint",
+            "match": {
+              "location": "ApiTestSteps.getListOfBlogPost()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 727776036,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "each blog post should have a unique ID",
+            "match": {
+              "location": "ApiTestSteps.getAndCheckPostIdIsUnique()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@uniqueIdPerPost"
+          }
+        ]
+      }
+    ],
+    "name": "Api Test",
+    "description": "As a test automation developer \nI get a list of blog posts using the API endpoint\nuser should have posts and\neach blog post should have a unique ID",
+    "id": "api-test",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/PostApiTest.feature"
+  }
+]

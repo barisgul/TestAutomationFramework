@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.973546">
+    <testcase classname="Api Test" name="Unique ID per post" time="14.973546">
+        <system-out>
+            <![CDATA[When I get a list of blog posts using the API endpoint......................passed
+Then each blog post should have a unique ID.................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
